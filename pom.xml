@@ -29,7 +29,7 @@
 
 
     <properties>
-        <springVersion>4.3.12.RELEASE</springVersion>
+        <springVersion>5.2.2.RELEASE</springVersion>
         <c3p0Version>0.9.1.2</c3p0Version>
         <mysql-connector>5.1.25</mysql-connector>
         <jacksonVersion>2.9.2</jacksonVersion>
